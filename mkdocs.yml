@@ -1,4 +1,5 @@
 site_name: SD Worx Innovation Lab Handbook
+site_description: A handbook for Innovation Lab coaches
 pages:
     - Home: index.md
     - Phases:
@@ -10,3 +11,4 @@ pages:
     - Tools: tools.md
     - Workshops: workshops.md
 theme: readthedocs
+repo_url: https://github.com/djbart/innovationlab-handbook
