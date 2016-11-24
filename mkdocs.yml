@@ -7,4 +7,6 @@ pages:
         - Incubate: phases/incubate.md
         - Accelerate: phases/accelerate.md
         - Grow: phases/grow.md
+    - Tools: tools.md
+    - Workshops: workshops.md
 theme: readthedocs
