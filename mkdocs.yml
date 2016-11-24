@@ -1,0 +1,5 @@
+site_name: SD Worx Innovation Lab Handbook
+pages:
+    - Home: index.md
+    - Second tab: index.md
+theme: readthedocs
