@@ -87,38 +87,43 @@
         }, 
         {
             "location": "/tools/", 
-            "text": "Concept card\n\n\nCustomer journey\n\n\nBusiness model kit\n\n\nBusiness model canvas\n\n\nInnovation battlefield\n\n\nExperiment card", 
+            "text": "Business model canvas\n\n\nDownload link\n (Print on A1)\n\n\nBusiness model kit\n\n\nContact your Innovation Ambassador to get a Business Model Kit\n\n\nConcept card\n\n\nDownload link\n (Print on A4)\n\n\nCustomer journey\n\n\nDownload link\n (Print on A1)\n\n\nExperiment card\n\n\nDownload link\n (Print on A4)\n\n\nInnovation battlefield\n\n\nDownload link\n (Print on A0)\n\n\nPlaybook\n\n\nTo Do", 
             "title": "Tools"
         }, 
         {
+            "location": "/tools/#business-model-canvas", 
+            "text": "Download link  (Print on A1)", 
+            "title": "Business model canvas"
+        }, 
+        {
+            "location": "/tools/#business-model-kit", 
+            "text": "Contact your Innovation Ambassador to get a Business Model Kit", 
+            "title": "Business model kit"
+        }, 
+        {
             "location": "/tools/#concept-card", 
-            "text": "", 
+            "text": "Download link  (Print on A4)", 
             "title": "Concept card"
         }, 
         {
             "location": "/tools/#customer-journey", 
-            "text": "", 
+            "text": "Download link  (Print on A1)", 
             "title": "Customer journey"
         }, 
         {
-            "location": "/tools/#business-model-kit", 
-            "text": "", 
-            "title": "Business model kit"
-        }, 
-        {
-            "location": "/tools/#business-model-canvas", 
-            "text": "", 
-            "title": "Business model canvas"
+            "location": "/tools/#experiment-card", 
+            "text": "Download link  (Print on A4)", 
+            "title": "Experiment card"
         }, 
         {
             "location": "/tools/#innovation-battlefield", 
-            "text": "", 
+            "text": "Download link  (Print on A0)", 
             "title": "Innovation battlefield"
         }, 
         {
-            "location": "/tools/#experiment-card", 
-            "text": "", 
-            "title": "Experiment card"
+            "location": "/tools/#playbook", 
+            "text": "To Do", 
+            "title": "Playbook"
         }, 
         {
             "location": "/workshops/", 
