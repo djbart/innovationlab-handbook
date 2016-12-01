@@ -8,7 +8,10 @@ pages:
         - Incubate: phases/incubate.md
         - Accelerate: phases/accelerate.md
         - Grow: phases/grow.md
-    - Tools: tools.md
+    - Tools:
+        - Playbook: tools/playbook.md
+        - Software: tools/software.md
+        - Templates: tools/templates.md
     - Workshops: workshops.md
 theme: readthedocs
 repo_url: https://github.com/djbart/innovationlab-handbook

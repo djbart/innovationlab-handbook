@@ -1,5 +1,3 @@
-# Overview
-
 # Inspire Sessions
 
 We aim to organise at least 1 Inspire Session per month per country. Sessions can consist of introducing a technology trend, a startup story or anything that trigger new ideas.

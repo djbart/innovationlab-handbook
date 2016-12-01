@@ -12,13 +12,8 @@
         }, 
         {
             "location": "/phases/inspire/", 
-            "text": "Overview\n\n\nInspire Sessions\n\n\nWe aim to organise at least 1 Inspire Session per month per country. Sessions can consist of introducing a technology trend, a startup story or anything that trigger new ideas.\n\n\nAnnouncing a session\n\n\nLog in to eventbrite\n\n\nGo to \nhttp://www.eventbrite.com\n \n log in with an account that can manage Innovation Lab events. You can get access rights by contacting the \nInnovation Lab\n.\n\n\nCreate an event\n\n\nClick on 'Create Event' and fill out the event details\n\n\n\n\n\n\n\n\nField\n\n\nFormat\n\n\n\n\n\n\n\n\n\n\nEvent\n\n\nINSPIRE Session: \nTopic\n - \nCity\n (\ndd/mm/yyyy\n)\n\n\n\n\n\n\nLocation\n\n\nFull address, floor \n room indication\n\n\n\n\n\n\nStarts\n\n\nStart date \n time of the INSPIRE session\n\n\n\n\n\n\nEnds\n\n\nEnd date \n time of the INSPIRE session (1h duration)\n\n\n\n\n\n\nEvent image\n\n\nSelect an image which represents the topic well\n\n\n\n\n\n\nEvent description\n\n\nLow-entry \n accessible description of the topic\n\n\n\n\n\n\nTickets\n\n\nAdd free tickets for \nInspired SD Worx Employee\n\n\n\n\n\n\nListing privacy\n\n\nPrivate page\n\n\n\n\n\n\nRemaining tickets\n\n\nShow the number of remaining tickets\n\n\n\n\n\n\n\n\nSave the event \n copy the event url.\n\n\nLog in to Strikingly\n\n\nGo to \nhttp://www.strikingly.com\n \n log in with an account that can manage the Innovation Lab web site. You can get access rights by contacting the \nInnovation Lab\n. Then click on the Edit button of the SD Worx Innovation Lab web site.\n\n\nUpdate the INSPIRE sessions page\n\n\nNavigate to 'Get Inspired', select the 'Planned' section and click 'ADD ITEM' at the bottom of the section.\n\n\n\n\n\n\n\n\nField\n\n\nFormat\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\nUse the same title as the event title\n\n\n\n\n\n\nSubtitle\n\n\nFull datetime \n location details\n\n\n\n\n\n\nDescription\n\n\nUse the same description as the event \n add the eventbrite link\n\n\n\n\n\n\nImage\n\n\nUse the same image as the event image\n\n\n\n\n\n\n\n\nClick 'Save now' and then 'PUBLISH'.\n\n\nManaging a session\n\n\nArchiving a session\n\n\nElevator pitch", 
+            "text": "Inspire Sessions\n\n\nWe aim to organise at least 1 Inspire Session per month per country. Sessions can consist of introducing a technology trend, a startup story or anything that trigger new ideas.\n\n\nAnnouncing a session\n\n\nLog in to eventbrite\n\n\nGo to \nhttp://www.eventbrite.com\n \n log in with an account that can manage Innovation Lab events. You can get access rights by contacting the \nInnovation Lab\n.\n\n\nCreate an event\n\n\nClick on 'Create Event' and fill out the event details\n\n\n\n\n\n\n\n\nField\n\n\nFormat\n\n\n\n\n\n\n\n\n\n\nEvent\n\n\nINSPIRE Session: \nTopic\n - \nCity\n (\ndd/mm/yyyy\n)\n\n\n\n\n\n\nLocation\n\n\nFull address, floor \n room indication\n\n\n\n\n\n\nStarts\n\n\nStart date \n time of the INSPIRE session\n\n\n\n\n\n\nEnds\n\n\nEnd date \n time of the INSPIRE session (1h duration)\n\n\n\n\n\n\nEvent image\n\n\nSelect an image which represents the topic well\n\n\n\n\n\n\nEvent description\n\n\nLow-entry \n accessible description of the topic\n\n\n\n\n\n\nTickets\n\n\nAdd free tickets for \nInspired SD Worx Employee\n\n\n\n\n\n\nListing privacy\n\n\nPrivate page\n\n\n\n\n\n\nRemaining tickets\n\n\nShow the number of remaining tickets\n\n\n\n\n\n\n\n\nSave the event \n copy the event url.\n\n\nLog in to Strikingly\n\n\nGo to \nhttp://www.strikingly.com\n \n log in with an account that can manage the Innovation Lab web site. You can get access rights by contacting the \nInnovation Lab\n. Then click on the Edit button of the SD Worx Innovation Lab web site.\n\n\nUpdate the INSPIRE sessions page\n\n\nNavigate to 'Get Inspired', select the 'Planned' section and click 'ADD ITEM' at the bottom of the section.\n\n\n\n\n\n\n\n\nField\n\n\nFormat\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\nUse the same title as the event title\n\n\n\n\n\n\nSubtitle\n\n\nFull datetime \n location details\n\n\n\n\n\n\nDescription\n\n\nUse the same description as the event \n add the eventbrite link\n\n\n\n\n\n\nImage\n\n\nUse the same image as the event image\n\n\n\n\n\n\n\n\nClick 'Save now' and then 'PUBLISH'.\n\n\nManaging a session\n\n\nArchiving a session\n\n\nElevator pitch", 
             "title": "Inspire"
-        }, 
-        {
-            "location": "/phases/inspire/#overview", 
-            "text": "", 
-            "title": "Overview"
         }, 
         {
             "location": "/phases/inspire/#inspire-sessions", 
@@ -86,44 +81,59 @@
             "title": "Grow"
         }, 
         {
-            "location": "/tools/", 
-            "text": "Business model canvas\n\n\nDownload link\n (Print on A1)\n\n\nBusiness model kit\n\n\nContact your Innovation Ambassador to get a Business Model Kit\n\n\nConcept card\n\n\nDownload link\n (Print on A4)\n\n\nCustomer journey\n\n\nDownload link\n (Print on A1)\n\n\nExperiment card\n\n\nDownload link\n (Print on A4)\n\n\nInnovation battlefield\n\n\nDownload link\n (Print on A0)\n\n\nPlaybook\n\n\nTo Do", 
-            "title": "Tools"
+            "location": "/tools/playbook/", 
+            "text": "", 
+            "title": "Playbook"
         }, 
         {
-            "location": "/tools/#business-model-canvas", 
+            "location": "/tools/software/", 
+            "text": "Communication platform\n\n\nWe use \nSlack\n to communicate \n share information. Any SD Worx employee can join our Slack team on \nsdwil.slack.com\n. You can set up a custom channel for a startup team if it can help improve their communication.\n\n\nWork management\n\n\nWe advise to use \nTrello\n as a lightweight \n customisable work management tool. You can create boards to manage all work related to a product or team. Our Trello boards are bundled in 1 team account which you can access \nhere\n.", 
+            "title": "Software"
+        }, 
+        {
+            "location": "/tools/software/#communication-platform", 
+            "text": "We use  Slack  to communicate   share information. Any SD Worx employee can join our Slack team on  sdwil.slack.com . You can set up a custom channel for a startup team if it can help improve their communication.", 
+            "title": "Communication platform"
+        }, 
+        {
+            "location": "/tools/software/#work-management", 
+            "text": "We advise to use  Trello  as a lightweight   customisable work management tool. You can create boards to manage all work related to a product or team. Our Trello boards are bundled in 1 team account which you can access  here .", 
+            "title": "Work management"
+        }, 
+        {
+            "location": "/tools/templates/", 
+            "text": "Business model canvas\n\n\nDownload link\n (Print on A1)\n\n\nBusiness model kit\n\n\nContact your Innovation Ambassador to get a Business Model Kit\n\n\nConcept card\n\n\nDownload link\n (Print on A4)\n\n\nCustomer journey\n\n\nDownload link\n (Print on A1)\n\n\nExperiment card\n\n\nDownload link\n (Print on A4)\n\n\nInnovation battlefield\n\n\nDownload link\n (Print on A0)", 
+            "title": "Templates"
+        }, 
+        {
+            "location": "/tools/templates/#business-model-canvas", 
             "text": "Download link  (Print on A1)", 
             "title": "Business model canvas"
         }, 
         {
-            "location": "/tools/#business-model-kit", 
+            "location": "/tools/templates/#business-model-kit", 
             "text": "Contact your Innovation Ambassador to get a Business Model Kit", 
             "title": "Business model kit"
         }, 
         {
-            "location": "/tools/#concept-card", 
+            "location": "/tools/templates/#concept-card", 
             "text": "Download link  (Print on A4)", 
             "title": "Concept card"
         }, 
         {
-            "location": "/tools/#customer-journey", 
+            "location": "/tools/templates/#customer-journey", 
             "text": "Download link  (Print on A1)", 
             "title": "Customer journey"
         }, 
         {
-            "location": "/tools/#experiment-card", 
+            "location": "/tools/templates/#experiment-card", 
             "text": "Download link  (Print on A4)", 
             "title": "Experiment card"
         }, 
         {
-            "location": "/tools/#innovation-battlefield", 
+            "location": "/tools/templates/#innovation-battlefield", 
             "text": "Download link  (Print on A0)", 
             "title": "Innovation battlefield"
-        }, 
-        {
-            "location": "/tools/#playbook", 
-            "text": "To Do", 
-            "title": "Playbook"
         }, 
         {
             "location": "/workshops/", 
