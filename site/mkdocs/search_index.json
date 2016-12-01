@@ -82,7 +82,12 @@
         }, 
         {
             "location": "/tools/playbook/", 
-            "text": "", 
+            "text": "Playbook\n\n\nTo Do", 
+            "title": "Playbook"
+        }, 
+        {
+            "location": "/tools/playbook/#playbook", 
+            "text": "To Do", 
             "title": "Playbook"
         }, 
         {
