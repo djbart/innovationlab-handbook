@@ -172,12 +172,12 @@
         }, 
         {
             "location": "/workshops/", 
-            "text": "Kickoff session", 
+            "text": "Kickoff session\n\n\n\n\n\n\n\n\nStart Time\n\n\nTopic\n\n\n\n\n\n\n\n\n\n\n9u15\n\n\nGoal of the program", 
             "title": "Workshops"
         }, 
         {
             "location": "/workshops/#kickoff-session", 
-            "text": "", 
+            "text": "Start Time  Topic      9u15  Goal of the program", 
             "title": "Kickoff session"
         }
     ]
