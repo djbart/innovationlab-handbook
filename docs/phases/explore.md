@@ -7,6 +7,8 @@ Duration: Max 2 months
 
 ## Preparation - Team
 
+- Organize a dry run of the pitch presentation
+
 ## Preparation - Jury
 
 ## Deliverables
