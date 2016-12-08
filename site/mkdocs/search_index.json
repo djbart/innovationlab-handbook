@@ -62,8 +62,38 @@
         }, 
         {
             "location": "/phases/explore/", 
-            "text": "", 
+            "text": "Introduction\n\n\nGoal: Identify and validate a problem that you would like to solve\nDuration: Max 2 months\n\n\nIncubation pitch\n\n\nPreparation - Team\n\n\nPreparation - Jury\n\n\nDeliverables\n\n\n\n\nGood Team\n\n\nValidated problem\n\n\nMVP definition\n\n\nMVP investment\n\n\nBasic business model (value side)\n\n\n\n\nEvaluation\n\n\nThe following 9 criteria should be evaluated on a scale of 1 (low) to 5 (high) points:\n\n\n\n\nTeam \n\n\nThe team lead is a potential intrapreneur\n\n\nThe team has diverse knowledge / backgrounds (Mkt. - Tech. - Bus.)\n\n\n\n\n\n\nValidated problem\n\n\nThe team validated the problem with (min. 5 ) relevant customers\n\n\n\n\n\n\nMVP definition\n\n\nThe MVP is clearly identified (who - why - what)\n\n\n\n\n\n\nMVP investment\n\n\nThe team has a realistic idea about the MVP investment\n\n\n\n\n\n\nBasic Business Model\n\n\nThe team identified relevant revenue streams\n\n\nThe team has a realistic idea about the potential market size\n\n\nThe team identified the most important costs\n\n\nThe project has the chance to become financially viable in the future\n\n\n\n\n\n\n\n\nThe team may go to the next phase if the average total evaluation exceeds 35 points of the total of 45 points.", 
             "title": "Explore"
+        }, 
+        {
+            "location": "/phases/explore/#introduction", 
+            "text": "Goal: Identify and validate a problem that you would like to solve\nDuration: Max 2 months", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/phases/explore/#incubation-pitch", 
+            "text": "", 
+            "title": "Incubation pitch"
+        }, 
+        {
+            "location": "/phases/explore/#preparation-team", 
+            "text": "", 
+            "title": "Preparation - Team"
+        }, 
+        {
+            "location": "/phases/explore/#preparation-jury", 
+            "text": "", 
+            "title": "Preparation - Jury"
+        }, 
+        {
+            "location": "/phases/explore/#deliverables", 
+            "text": "Good Team  Validated problem  MVP definition  MVP investment  Basic business model (value side)", 
+            "title": "Deliverables"
+        }, 
+        {
+            "location": "/phases/explore/#evaluation", 
+            "text": "The following 9 criteria should be evaluated on a scale of 1 (low) to 5 (high) points:   Team   The team lead is a potential intrapreneur  The team has diverse knowledge / backgrounds (Mkt. - Tech. - Bus.)    Validated problem  The team validated the problem with (min. 5 ) relevant customers    MVP definition  The MVP is clearly identified (who - why - what)    MVP investment  The team has a realistic idea about the MVP investment    Basic Business Model  The team identified relevant revenue streams  The team has a realistic idea about the potential market size  The team identified the most important costs  The project has the chance to become financially viable in the future     The team may go to the next phase if the average total evaluation exceeds 35 points of the total of 45 points.", 
+            "title": "Evaluation"
         }, 
         {
             "location": "/phases/incubate/", 
