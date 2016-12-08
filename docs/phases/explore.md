@@ -40,4 +40,4 @@ The following 9 criteria should be evaluated on a scale of 1 (low) to 5 (high) p
 
 The team may go to the next phase if the average total evaluation exceeds 35 points of the total of 45 points.
 
-[Download the checklist in PDF](tools/ChecklistIncubationPitch.pdf)
+[Download the checklist in PDF](../tools/ChecklistIncubationPitch.pdf)
