@@ -1,0 +1,193 @@
+# Home
+
+### Welcome
+
+![Neon title](/Users/bart/Repos/SD Worx/innovationlab-handbook/site/img/neon-title.png)
+
+This handbook is meant to assist innovation coaches in supporting the startup teams in their SD Worx innovation journey.
+
+## Inspire
+
+### Inspire Sessions
+
+We aim to organise at least 1 Inspire Session per month per country. Sessions can consist of introducing a technology trend, a startup story or anything that trigger new ideas.
+
+#### Announcing a session
+
+##### Log in to eventbrite
+
+Go to [http://www.eventbrite.com](http://www.eventbrite.com) & log in with an account that can manage Innovation Lab events. You can get access rights by contacting the [Innovation Lab](mailto:innovationlab@sdworx.com).
+
+##### Create an event
+
+Click on 'Create Event' and fill out the event details
+
++----------------------------+----------------------------------------------------------------------------+
+| Field                      | Format                                                                     |
++============================+============================================================================+
+| Event                      | INSPIRE Session: **Topic** - **City** (**dd/mm/yyyy**)                     |
++----------------------------+----------------------------------------------------------------------------+
+| Location                   | Full address, floor & room indication                                      |
++----------------------------+----------------------------------------------------------------------------+
+| Starts                     | Start date & time of the INSPIRE session                                   |
++----------------------------+----------------------------------------------------------------------------+
+| Ends                       | End date & time of the INSPIRE session (1h duration)                       |
++----------------------------+----------------------------------------------------------------------------+
+| Event image                | Select an image which represents the topic well                            |
++----------------------------+----------------------------------------------------------------------------+
+| Event description          | Low-entry & accessible description of the topic                            |
++----------------------------+----------------------------------------------------------------------------+
+| Tickets                    | Add free tickets for **Inspired SD Worx Employee**                         |
++----------------------------+----------------------------------------------------------------------------+
+| Listing privacy            | Private page                                                               |
++----------------------------+----------------------------------------------------------------------------+
+| Remaining tickets          | Show the number of remaining tickets                                       |
++----------------------------+----------------------------------------------------------------------------+
+
+Save the event & copy the event url.
+
+##### Log in to Strikingly
+
+Go to [http://www.strikingly.com](http://www.strikingly.com) & log in with an account that can manage the Innovation Lab web site. You can get access rights by contacting the [Innovation Lab](mailto:innovationlab@sdworx.com). Then click on the Edit button of the SD Worx Innovation Lab web site.
+
+##### Update the INSPIRE sessions page
+
+Navigate to 'Get Inspired', select the 'Planned' section and click 'ADD ITEM' at the bottom of the section.
+
++-------------------------+-------------------------------------------------------------------------------+
+| Field                   | Format                                                                        |
++=========================+===============================================================================+
+| Title                   | Use the same title as the event title                                         |
++-------------------------+-------------------------------------------------------------------------------+
+| Subtitle                | Full datetime & location details                                              |
++-------------------------+-------------------------------------------------------------------------------+
+| Description             | Use the same description as the event & add the eventbrite link               |
++-------------------------+-------------------------------------------------------------------------------+
+| Image                   | Use the same image as the event image                                         |
++-------------------------+-------------------------------------------------------------------------------+
+
+Click 'Save now' and then 'PUBLISH'.
+
+#### Managing a session
+
+#### Archiving a session
+
+### Elevator pitch
+
+## Explore
+
+### Introduction
+
+Goal: Identify and validate a problem that you would like to solve
+Duration: Max 2 months
+
+### Incubation pitch
+
+#### Preparation - Team
+
+- Organize a dry run of the pitch presentation
+
+#### Preparation - Jury
+
+#### Deliverables
+
+- Good Team
+- Validated problem
+- MVP definition
+- MVP investment
+- Basic business model (value side)
+
+#### Evaluation
+
+The following 9 criteria should be evaluated on a scale of 1 (low) to 5 (high) points:
+
+- Team
+    - The team lead is a potential intrapreneur
+    - The team has diverse knowledge / backgrounds (Mkt. - Tech. - Bus.)
+- Validated problem
+    - The team validated the problem with (min. 5 ) relevant customers
+- MVP definition
+    - The MVP is clearly identified (who - why - what)
+- MVP investment
+    - The team has a realistic idea about the MVP investment
+- Basic Business Model
+    - The team identified relevant revenue streams
+    - The team has a realistic idea about the potential market size
+    - The team identified the most important costs
+    - The project has the chance to become financially viable in the future
+
+The team may go to the next phase if the average total evaluation exceeds 35 points of the total of 45 points.
+
+[Download the checklist in PDF](../tools/ChecklistIncubationPitch.pdf)
+
+## Incubate
+
+
+## Accelerate
+
+
+## Grow
+
+
+## Playbook
+
+### Playbook
+
+To Do
+
+## Software
+
+### Communication platform
+
+We use [Slack](http://www.slack.com) to communicate & share information. Any SD Worx employee can join our Slack team on [sdwil.slack.com](http://sdwil.slack.com). You can set up a custom channel for a startup team if it can help improve their communication.
+
+### Work management
+
+We advise to use [Trello](http://www.trello.com) as a lightweight & customisable work management tool. You can create boards to manage all work related to a product or team. Our Trello boards are bundled in 1 team account which you can access [here](https://trello.com/sdworxinnovationlab).
+
+## Templates
+
+### Business model canvas
+
+[Download link](tools/BusinessModelCanvas_A1.pdf) (Print on A1)
+
+### Business model kit
+
+Contact your Innovation Ambassador to get a Business Model Kit
+
+### Concept card
+
+[Download link](tools/ConceptCard_A4.pdf) (Print on A4)
+
+### Customer journey
+
+[Download link](tools/CustomerJourney_A1.pdf) (Print on A1)
+
+### Experiment card
+
+[Download link](tools/ExperimentCard_A4.pdf) (Print on A4)
+
+### Innovation battlefield
+
+[Download link](tools/InnovationBattlefieldExtra_A0.pdf) (Print on A0)
+
+# Workshops
+
+#### Kickoff session
+
++--------------------------------------+------------------------------------------------------------------+
+| Start Time                           | Topic                                                            |
++======================================+==================================================================+
+| 9u15                                 | Goal of the program                                              |
++--------------------------------------+------------------------------------------------------------------+
+
+# FAQ
+
+### Definition of a customer
+
+Who is experiencing the problem? Who is paying to solve the problem?
+
+### B2B or B2C
+
+This topic should be postponed as long as possible because it doesn't directly influence the solution.
+

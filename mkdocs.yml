@@ -13,5 +13,6 @@ pages:
         - Software: tools/software.md
         - Templates: tools/templates.md
     - Workshops: workshops.md
+    - FAQ: faq.md
 theme: readthedocs
 repo_url: https://github.com/djbart/innovationlab-handbook

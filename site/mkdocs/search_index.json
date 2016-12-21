@@ -179,6 +179,21 @@
             "location": "/workshops/#kickoff-session", 
             "text": "Start Time  Topic      9u15  Goal of the program", 
             "title": "Kickoff session"
+        }, 
+        {
+            "location": "/faq/", 
+            "text": "Definition of a customer\n\n\nWho is experiencing the problem? Who is paying to solve the problem?\n\n\nB2B or B2C\n\n\nThis topic should be postponed as long as possible because it doesn't directly influence the solution.", 
+            "title": "FAQ"
+        }, 
+        {
+            "location": "/faq/#definition-of-a-customer", 
+            "text": "Who is experiencing the problem? Who is paying to solve the problem?", 
+            "title": "Definition of a customer"
+        }, 
+        {
+            "location": "/faq/#b2b-or-b2c", 
+            "text": "This topic should be postponed as long as possible because it doesn't directly influence the solution.", 
+            "title": "B2B or B2C"
         }
     ]
 }
